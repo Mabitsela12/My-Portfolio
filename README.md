@@ -28,7 +28,7 @@ Tertiary      : 2020-2020
     
               : 2019-2023 
               Tshwane University Of Technology   
-              NDip Information Technology (Software Development) student  2023  
+              NDip Information Technology (Software Development) student  2024 
  	           Tshwane University Of Technology   Intensive Learning Campaign (2016)  
  
  SKILLS 
