@@ -19,17 +19,17 @@ Email Address  	: tshales.mathipai1@gmail.com
 License Code  	: Code 10 
 ACADEMIC ACHIEVEMENT  
 High school: 2013-2018 
-       Boshego High School   
-          National Senior Certificate (2018)              
+Boshego High School   
+ National Senior Certificate (2018)              
  
 Tertiary      : 2020-2020 
-         Brooklyn City College   
-         Computer Literacy (2020)  
+               Brooklyn City College   
+               Computer Literacy (2020)  
     
-                   : 2019-2023 
-         Tshwane University Of Technology   
-      NDip Information Technology (Software Development) student  2023  
- 	       Tshwane University Of Technology   Intensive Learning Campaign (2016)  
+              : 2019-2023 
+              Tshwane University Of Technology   
+              NDip Information Technology (Software Development) student  2023  
+ 	           Tshwane University Of Technology   Intensive Learning Campaign (2016)  
  
  SKILLS 
  
@@ -40,16 +40,18 @@ Tertiary      : 2020-2020
   	Motivation  	  	  	  	  	Problem solving   	  	  
   	Negotiating        	  	  	  	Listening  	  	  	  
   	Conflict management   	  	  	Integrity  	  	  	  
-  	Consistency    	  	  	  	Openness                                                             
+  	Consistency    	  	  	  	Openness 
+
+   
 PROGRAMMING AND COMPUTING SKILLS  
  	C++  	  	  	  	Small Basics  
  	PHP  	  	  	  	MS Office (Word, Excel, PowerPoint and Outlook)    
- 	HTML  	  	  	SQL  
+ 	HTML  	  	  	 SQL  
  	CSS 	  	  	  	Linux  
  	Scratch Project  		           Javascript  
-    python
-    Django
-    Figma
+  python
+  Django
+  Figma
 
 
 LIFE EXPERIENCE  
