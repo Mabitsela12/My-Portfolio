@@ -4,9 +4,7 @@ ABOUT
 I am highly motivated and have passion in programming and always open to challenges. I was doing my final year and I concluded in 2023. I have a good technical, human, and conceptual skill.  I am an effective communicator and have the ability to relate to people across all levels. My personal style is that I am structured and organised and I function well in a team environment where I support my team members to be part of the process.  
 PERSONAL DETAILS 
 Surname 	 	: Mathipa 
-Names  	 	: Mabitsela Tshales 
-Id No  	 	: 9908265840087 
-DOB  	 	: 26 August 1999 
+Names  	 	: Mabitsela Tshales  
 Languages 	 	: Sepedi, English and IsiZulu 
 Home Address  
 Box Office
